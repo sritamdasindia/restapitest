@@ -13,8 +13,7 @@ def fun ():
         firstname = response_text["data"]["first_name"]
         print(firstname)
         data . configure ( text = firstname )
-
-    
+   
 
 window = Tk()
 
